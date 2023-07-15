@@ -10,3 +10,5 @@ Main goals :
 - Being able to visualize the simulation (not in command line)
 
 This is a simulation, by so the goal is not to play it but moreso to let it play itself.
+
+(I'm creating this because I got the idea but I don't think I will actually commit on this project until September at least)
