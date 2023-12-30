@@ -11,4 +11,4 @@ Main goals :
 
 This is a simulation, by so the goal is not to play it but moreso to let it play itself.
 
-(I'm creating this because I got the idea but I don't think I will actually commit on this project until September at least)
+(30 December 2023 and I will finally start this project in the next month, yay !)
