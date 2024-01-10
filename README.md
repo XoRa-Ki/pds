@@ -1,4 +1,4 @@
-# Pik-Sim
+# Pikmin Day Simulator (PDS)
 
 A code that aim to simulate a day (or more ?) in the world of Pikmin.
 
