@@ -6,10 +6,10 @@
 typedef struct marker
 {
     int marker_id ;
-    int neighbours[5] ; /*5 nieghbours max in the current test map (tropical forest)*/
-    int pikmins[3] ; /*0 : red, 1 : yellow, 2 : blue*/
+    int neighbours[6] ; /*5 neighbours max in the current test map (tropical forest)*/
+    int pikmins[4] ; /*0 : red, 1 : yellow, 2 : blue*/
 
-    int coord[3] ; /* 0 : abscissa (x axis) ; 1 : ordinate (y axis) ; 2 : applicate (z axis)*/
+    int coord[4] ; /* 0 : abscissa (x axis) ; 1 : ordinate (y axis) ; 2 : applicate (z axis)*/
 
     char terrain_type[4] ;
 
